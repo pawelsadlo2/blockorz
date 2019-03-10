@@ -8,3 +8,4 @@ compile
 compile all
 all {file:/C:/Users/pawel/Desktop/scala/courseera/streams/}root/products {file:/C:/Users/pawel/Desktop/scala/courseera/streams/}root/test:products
 test
+git status

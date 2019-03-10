@@ -1,0 +1,10 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/pawel/AppData/Local/Temp/sbt-structure.xml; session clear-all
+run
+2
+run
+2
+run
+compile
+compile all
+all {file:/C:/Users/pawel/Desktop/scala/courseera/streams/}root/products {file:/C:/Users/pawel/Desktop/scala/courseera/streams/}root/test:products
+test
